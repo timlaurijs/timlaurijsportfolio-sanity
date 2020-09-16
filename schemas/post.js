@@ -25,7 +25,7 @@ export default {
     },
     {
       name: "mainImage",
-      title: "Main image",
+      title: "MainImage",
       type: "array",
       of: [{ type: "image" }],
       options: {
